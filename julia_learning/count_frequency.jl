@@ -4,9 +4,10 @@ function frequencyCount(arqName)
   frequency = Dict{String, Int64}()
 
   for linha in eachline(arquivo)
+    linha = lowercase(linha)
     palavras = split(linha)
     for palavra in palavras
-    if haskey(frequency, palavra)
+      if haskey(frequency, palavras)
       frequency[palavra] += 1
     else
       frequency[palavra] = 1

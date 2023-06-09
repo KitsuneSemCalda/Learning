@@ -1,1 +1,8 @@
 Julia é uma linguagem de programação de alto nível, desenvolvida para ser eficiente e fácil de usar. Ela possui uma sintaxe elegante e poderosas ferramentas para análise de dados e computação científica. Julia é amplamente utilizada em áreas como aprendizado de máquina, simulações numéricas e modelagem estatística. Experimente Julia e desfrute de sua versatilidade e desempenho!
+
+
+O rato roeu a roupa do rei de Roma.
+Roma não foi construída em um dia.
+Dia após dia, a vida segue seu curso.
+Curso de programação em Julia.
+Julia é uma linguagem poderosa e versátil.
